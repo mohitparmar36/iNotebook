@@ -1,0 +1,71 @@
+.nitem{
+    margin: 25px 50px;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+}
+
+.notes-container {
+    max-width: 800px;
+    margin: 25px auto;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+.notes-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.note-list {
+    display: grid;
+    gap: 20px;
+}
+
+.note-item {
+    background-color: #f9f9f9;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.note-title {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.note-description {
+    font-size: 16px;
+    color: #555;
+}
+
+.note-actions {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.action-button {
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.action-button i {
+    font-size: 18px;
+    color: #555;
+}
+
+.action-button:hover i {
+    color: #e74c3c; /* Change color on hover */
+}

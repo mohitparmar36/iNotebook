@@ -1,0 +1,11 @@
+/* Add this to your existing CSS file or create a new one */
+
+.no-notes-message {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f8d7da; /* You can choose a different background color */
+    color: #721c24; /* You can choose a different text color */
+    border: 1px solid #f5c6cb; /* You can choose a different border color */
+    border-radius: 5px;
+}

@@ -1,0 +1,78 @@
+.note-head{
+    text-align: center;
+}
+
+/* Customize the modal */
+.modal-dialog {
+    max-width: 800px;
+    margin: 50px auto;
+  }
+  
+  .modal-content {
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+  }
+  
+  .modal-header {
+    background-color: #2F3C7E;
+    color: #fff;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 20px;
+  }
+  
+  .modal-title {
+    font-size: 28px;
+  }
+  
+  .modal-body {
+    padding: 30px;
+    background-color: #fff;
+  }
+  
+  .modal-footer {
+    border-top: 1px solid #ddd;
+    padding: 20px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: #fff;
+  }
+  
+  /* Close button style */
+  .btn-close {
+    color: #fff;
+    font-size: 24px;
+  }
+  
+  .btn-close:hover {
+    color: #e74c3c;
+  }
+  
+  /* Secondary button style */
+  .btn-secondary {
+    background-color: #6c757d;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-size: 18px;
+  }
+  
+  .btn-secondary:hover {
+    background-color: #5a6268;
+  }
+  
+  /* Primary button style */
+  .btn-primary {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-size: 18px;
+  }
+  
+  .btn-primary:hover {
+    background-color: #2980b9;
+  }
+  
